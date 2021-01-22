@@ -2,9 +2,9 @@
 
 Welcome!
 
-This is Sukhyun Kim, the owner of this repository. You can find some of my school works here. 
+This is Sukhyun Kim, the owner of this repository. You can find some of my school works and technical projects here.
 
-If you have any questions, please feel free to contact me at sukhyun.kim.684@my.csun.edu
+If you have any questions, please contact me via www.rachelskim.net
 
 
 Thank you!
